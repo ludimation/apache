@@ -1,0 +1,52 @@
+function OAS_RICH(position) {
+if (position == 'Left') {
+document.write ('<A HREF="http://oaseu.ad-vice.biz/5c/ufunk.net/en/ros/2013867722/Left/default/empty.gif/6761453357314979457659414138524c?x" target="_top"><IMG SRC="http://imageceu1.247realmedia.com/0/default/empty.gif"  WIDTH=1 HEIGHT=1 ALT="" BORDER=0 BORDER="0"></A>');
+}
+if (position == 'Middle') {
+document.write ('\n');
+document.write ('<script type="text/javascript"><!--\n');
+document.write ('google_ad_client = "ca-pub-7730556263274240";\n');
+document.write ('/* uFunk.net ENG 300x250 (EU) */\n');
+document.write ('google_ad_slot = "3468879617";\n');
+document.write ('google_ad_width = 300;\n');
+document.write ('google_ad_height = 250;\n');
+document.write ('//-->\n');
+document.write ('</script>\n');
+document.write ('<script type="text/javascript"\n');
+document.write ('src="http://pagead2.googlesyndication.com/pagead/show_ads.js">\n');
+document.write ('</script>\n');
+}
+if (position == 'Middle1') {
+document.write ('\n');
+document.write ('<script type="text/javascript"><!--\n');
+document.write ('google_ad_client = "ca-pub-7730556263274240";\n');
+document.write ('/* uFunk.net ENG 300x250 (EU) */\n');
+document.write ('google_ad_slot = "3468879617";\n');
+document.write ('google_ad_width = 300;\n');
+document.write ('google_ad_height = 250;\n');
+document.write ('//-->\n');
+document.write ('</script>\n');
+document.write ('<script type="text/javascript"\n');
+document.write ('src="http://pagead2.googlesyndication.com/pagead/show_ads.js">\n');
+document.write ('</script>\n');
+}
+if (position == 'Right') {
+document.write ('<A HREF="http://oaseu.ad-vice.biz/5c/ufunk.net/en/ros/719693955/Right/default/empty.gif/6761453357314979457659414138524c?x" target="_top"><IMG SRC="http://imageceu1.247realmedia.com/0/default/empty.gif"  WIDTH=1 HEIGHT=1 ALT="" BORDER=0 BORDER="0"></A>');
+}
+if (position == 'Top1') {
+document.write ('<script type="text/javascript"><!--\n');
+document.write ('google_ad_client = "ca-pub-7730556263274240";\n');
+document.write ('/* uFunk.net ENG 728x90 (EU) */\n');
+document.write ('google_ad_slot = "1992146418";\n');
+document.write ('google_ad_width = 728;\n');
+document.write ('google_ad_height = 90;\n');
+document.write ('//-->\n');
+document.write ('</script>\n');
+document.write ('<script type="text/javascript"\n');
+document.write ('src="http://pagead2.googlesyndication.com/pagead/show_ads.js">\n');
+document.write ('</script>\n');
+}
+if (position == 'Top2') {
+document.write ('<A HREF="http://oaseu.ad-vice.biz/5c/ufunk.net/en/ros/1149683312/Top2/default/empty.gif/6761453357314979457659414138524c?x" target="_top"><IMG SRC="http://imageceu1.247realmedia.com/0/default/empty.gif"  WIDTH=1 HEIGHT=1 ALT="" BORDER=0 BORDER="0"></A>');
+}
+}
